@@ -1,0 +1,24 @@
+daj mi opis co robi bot czego uzywa od nowa, zgodnie z tym co budujemy
+
+20:07
+Co robi bot:
+
+Dajesz mu URL strony firmy która jest Twoim obecnym partnerem lub wzorcowym klientem. Bot analizuje czym się zajmuje ta firma i szuka w internecie podobnych firm które mogłyby być zainteresowane współpracą z Last Agency.
+
+Flow krok po kroku:
+
+Dajesz URL np. https://agencjaXYZ.pl
+Bot scrапuje stronę — wyciąga tekst, czym się zajmują, jacy klienci, jaki profil
+Na podstawie profilu generuje zapytania i szuka podobnych firm przez Tavily
+Zwraca listę firm z uzasadnieniem dlaczego pasują jako partner
+Evaluator ocenia czy znalezione firmy rzeczywiście są podobne do wzorca
+Jeśli nie — rerun i szuka jeszcze raz z feedbackiem
+Zatwierdzone firmy zapisuje do CSV
+Co używamy:
+
+OpenAI — główny model AI który analizuje i podejmuje decyzje
+Tavily — wyszukiwarka internetowa dla agenta
+BeautifulSoup + requests — scraping strony wzorcowej firmy
+Tools — scrape_website, search_similar_companies, save_prospect
+Evaluator — drugi model AI oceniający jakość wyników
+CSV — zapis zatwierdzonych prospektów
