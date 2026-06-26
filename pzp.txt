@@ -1,0 +1,56 @@
+Podstawy zarządzania projektami – skrót
+
+PDF omawia podstawowe pojęcia i praktyki zarządzania projektami.
+
+Najważniejsze punkty: 1. Projekt – tymczasowe działanie mające określony
+początek i koniec, którego celem jest stworzenie produktu lub wartości.
+2. Zarządzanie projektem – planowanie, realizacja i kontrola działań w
+celu osiągnięcia celu w określonym czasie, budżecie, zakresie i jakości.
+3. Główne wyzwania PM: - zarządzanie kryzysami - praca z rozproszonym
+zespołem - elastyczność zespołów - zarządzanie kompetencjami i emocjami
+
+4.  Trójkąt projektowy:
+
+-   zakres
+-   czas
+-   budżet
+-   jakość
+
+5.  Role w projekcie:
+
+-   Właściciel projektu / Komitet sterujący
+-   Kierownik projektu
+-   Zespół projektowy
+
+6.  Etapy projektu:
+
+-   inicjowanie
+-   planowanie
+-   realizacja i monitoring
+-   zamknięcie
+
+7.  Planowanie projektu:
+
+-   określenie celów
+-   harmonogram
+-   podział pracy (WBS)
+-   harmonogram Gantta
+
+8.  Ryzyko:
+
+-   identyfikacja
+-   ocena prawdopodobieństwa
+-   działania zapobiegawcze
+
+9.  Interesariusze:
+
+-   pozytywni
+-   neutralni
+-   negatywni
+
+10. Częste problemy w projektach:
+
+-   za dużo projektów naraz
+-   brak nadzoru
+-   słaby kierownik projektu
+-   źle dobrany zespół
